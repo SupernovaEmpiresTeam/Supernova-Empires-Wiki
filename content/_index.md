@@ -29,4 +29,4 @@ All Supernova Empires modpacks use manifest to add mods, resource packs and shad
 
 # Contributors
 
-![Contributors](https://contrib.rocks/image?repo=FilmaBem2/supernova-empires-wiki)
+![Contributors](https://contrib.rocks/image?repo=SupernovaEmpiresTeam/supernova-empires-wiki)
