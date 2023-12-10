@@ -1,4 +1,4 @@
-baseURL = 'https://example.org'
+baseURL = 'supernova-empires-wiki.pages.dev'
 languageCode = 'en-us'
 DefaultContentLanguage = "en"
 title = 'Supernova Empires Wiki'
