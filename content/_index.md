@@ -1,5 +1,6 @@
 ---
-title: "_Index"
+title: "Supernova Empires Wiki"
+description: Official wiki for Supernova Empires
 date: 2023-12-10T21:43:08Z
 lastmod: 2023-12-10T21:43:08Z
 publishdate: 2023-12-10T21:43:08Z
