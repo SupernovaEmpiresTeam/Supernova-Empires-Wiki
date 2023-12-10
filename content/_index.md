@@ -18,15 +18,15 @@ All Supernova Empires modpacks use manifest to add mods, resource packs and shad
 
 ## Supernova Empires Modpacks
 
-- [Supernova Empires](supernova-empires.md)
-- [Supernova Empires 2](supernova-empires-2.md)
-- [Supernova Empires 3](supernova-empires-3.md)
-- [Supernova Empires 4](supernova-empires-4.md)
-- [Supernova Empires 5](supernova-empires-5.md)
+- [Supernova Empires](modpacks/supernova-empires)
+- [Supernova Empires 2](modpacks/supernova-empires-2)
+- [Supernova Empires 3](modpacks/supernova-empires-3)
+- [Supernova Empires 4](modpacks/supernova-empires-4)
+- [Supernova Empires 5](modpacks/supernova-empires-5)
 
 ## Shaders
 
-[SE:Re-Shader](shaders/Re-Shader.md)
+[SE:Re-Shader](shaders/Re-Shader)
 
 # Contributors
 
