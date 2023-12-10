@@ -10,4 +10,6 @@ description: ""
 weight: 5
 ---
 
-Lorem Ipsum.
+Supernova Empires 5 is in early development stage yet. This page may be incomplete
+
+Loader: NeoForge
