@@ -1,8 +1,5 @@
 ---
 title: "Modpacks"
-menu: 
-  - main
-  - open-menu
 date: 2023-12-10T22:17:35Z
 lastmod: 2023-12-10T22:17:35Z
 publishdate: 2023-12-10T22:17:35Z
