@@ -33,179 +33,179 @@ Transmutation Table is a table that allows users to trade items for EMC and EMC 
 
 ## Modlist
 
-- [AE2 Wireless Terminal Library](mods/AE2-Wireless-Terminal-Library.md)
+- [AE2 Wireless Terminal Library](mods/AE2-Wireless-Terminal-Library)
 
-- [Applied Energistics 2](mods/Applied-Energistics-2.md)
+- [Applied Energistics 2](mods/Applied-Energistics-2)
 
-- [Avaritia 1.1x](mods/Avaritia-1-1-x.md)
+- [Avaritia 1.1x](mods/Avaritia-1-1-x)
 
-- [Back Tools](mods/Back-Tools.md)
+- [Back Tools](mods/Back-Tools)
 
-- [Baubles](mods/Baubles.md)
+- [Baubles](mods/Baubles)
 
-- [Blockcraftery](mods/Blockcraftery.md)
+- [Blockcraftery](mods/Blockcraftery)
 
-- [Bookshelf](mods/Bookshelf.md)
+- [Bookshelf](mods/Bookshelf)
 
-- [Brandon's Core](mods/Brandon's-Core.md)
+- [Brandon's Core](mods/Brandon's-Core)
 
-- [Carry On](mods/Carry-On.md)
+- [Carry On](mods/Carry-On)
 
-- [CB Multipart](mods/CB-Multipart.md)
+- [CB Multipart](mods/CB-Multipart)
 
-- [Chameleon](mods/Chameleon.md)
+- [Chameleon](mods/Chameleon)
 
-- [Chickens](mods/Chickens.md)
+- [Chickens](mods/Chickens)
 
-- [Chisel](mods/Chisel.md)
+- [Chisel](mods/Chisel)
 
-- [CodeChicken Lib 1.8.+](mods/CodeChicken-Lib-1-8.md)
+- [CodeChicken Lib 1.8.+](mods/CodeChicken-Lib-1-8)
 
-- [ConnectedTexturesMod](mods/ConnectedTexturesMod.md)
+- [ConnectedTexturesMod](mods/ConnectedTexturesMod)
 
-- [CraftTweaker](mods/CraftTweaker.md)
+- [CraftTweaker](mods/CraftTweaker)
 
-- [Creeper Confetti](mods/Creeper-Confetti.md)
+- [Creeper Confetti](mods/Creeper-Confetti)
 
-- [Cucumber Library](mods/Cucumber-Library.md)
+- [Cucumber Library](mods/Cucumber-Library)
 
-- [CXLibrary](mods/CXLibrary.md)
+- [CXLibrary](mods/CXLibrary)
 
-- [Cyclic](mods/Cyclic.md)
+- [Cyclic](mods/Cyclic)
 
-- [Cyclops Core](mods/Cyclops-Core.md)
+- [Cyclops Core](mods/Cyclops-Core)
 
-- [Dark Utilities](mods/Dark-Utilities.md)
+- [Dark Utilities](mods/Dark-Utilities)
 
-- [Deconstruction Table](mods/Desconstruction-Table.md)
+- [Deconstruction Table](mods/Desconstruction-Table)
 
-- [Draconic Evolution](mods/Draconic-Evolution.md)
+- [Draconic Evolution](mods/Draconic-Evolution)
 
-- [Ender IO](mods/Ender-IO.md)
+- [Ender IO](mods/Ender-IO)
 
-- [Ender Storage 1.8.+](mods/Ender-Storage-1-8.md)
+- [Ender Storage 1.8.+](mods/Ender-Storage-1-8)
 
-- [EnderCore](mods/EnderCore.md)
+- [EnderCore](mods/EnderCore)
 
-- [Extra Utilities](mods/Extra-Utilities.md)
+- [Extra Utilities](mods/Extra-Utilities)
 
-- [Extreme Reactors](mods/Extreme-Reactors.md)
+- [Extreme Reactors](mods/Extreme-Reactors)
 
-- [Flux Networks](mods/Flux-Networks.md)
+- [Flux Networks](mods/Flux-Networks)
 
-- [FTB ProjectEX](mods/FTB-ProjectEX.md)
+- [FTB ProjectEX](mods/FTB-ProjectEX)
 
-- [GunpowderLib](mods/GunpowderLib.md)
+- [GunpowderLib](mods/GunpowderLib)
 
-- [HammerLib](mods/HammerLib.md)
+- [HammerLib](mods/HammerLib)
 
-- [Hats](mods/Hats.md)
+- [Hats](mods/Hats)
 
-- [Hwyla](mods/Hwyla.md)
+- [Hwyla](mods/Hwyla)
 
-- [iChunUtil](mods/iChunUtil.md)
+- [iChunUtil](mods/iChunUtil)
 
-- [IE Cloche Compat](mods/IE-Cloche-Compat.md)
+- [IE Cloche Compat](mods/IE-Cloche-Compat)
 
-- [Immersive Engineering](mods/Immersive-Engineering.md)
+- [Immersive Engineering](mods/Immersive-Engineering)
 
-- [Industrial Foregoing](mods/Industrial-Foregoing.md)
+- [Industrial Foregoing](mods/Industrial-Foregoing)
 
-- [Integration Foregoing](mods/Integration-Foregoing.md)
+- [Integration Foregoing](mods/Integration-Foregoing)
 
-- [Inventory Pets](mods/Inventory-Pets.md)
+- [Inventory Pets](mods/Inventory-Pets)
 
-- [InventoryTweaks](mods/InventoryTweaks.md)
+- [InventoryTweaks](mods/InventoryTweaks)
 
-- [JourneyMap](mods/JourneyMap.md)
+- [JourneyMap](mods/JourneyMap)
 
-- [JurassiCraft](mods/JurassiCraft.md)
+- [JurassiCraft](mods/JurassiCraft)
 
-- [Just Enough Items (JEI)](mods/Just-Enough-Items-(JEI).md)
+- [Just Enough Items (JEI)](mods/Just-Enough-Items-(JEI))
 
-- [LetsEncrtptCraft](mods/LetsEncrtptCraft.md)
+- [LetsEncrtptCraft](mods/LetsEncrtptCraft)
 
-- [LLibrary](mods/LLibrary.md)
+- [LLibrary](mods/LLibrary)
 
-- [LunatriusCore](mods/LunatriusCore.md)
+- [LunatriusCore](mods/LunatriusCore)
 
-- [MalisisCore](mods/MalisisCore.md)
+- [MalisisCore](mods/MalisisCore)
 
-- [MalisisDoors](mods/MalisisDoors.md)
+- [MalisisDoors](mods/MalisisDoors)
 
-- [McJtyLib](mods/McJtyLib.md)
+- [McJtyLib](mods/McJtyLib)
 
-- [Mekanica](mods/Mekanica.md)
+- [Mekanica](mods/Mekanica)
 
-- [Mekanica: Generators](mods/Mekanica-Generators.md)
+- [Mekanica: Generators](mods/Mekanica-Generators)
 
-- [Mekanica: Tools](mods/Mekanica-Tools.md)
+- [Mekanica: Tools](mods/Mekanica-Tools)
 
-- [MoarSigns](mods/MoarSigns.md)
+- [MoarSigns](mods/MoarSigns)
 
-- [Mob Grinding Utils](mods/Mob-Grinding-Utils.md)
+- [Mob Grinding Utils](mods/Mob-Grinding-Utils)
 
-- [More Chickens](mods/More-Chickens.md)
+- [More Chickens](mods/More-Chickens)
 
-- [Morpheus](mods/Morpheus.md)
+- [Morpheus](mods/Morpheus)
 
-- [MrCrayfish's Furniture Mod](mods/MrCrayfish's-Furniture-Mod.md)
+- [MrCrayfish's Furniture Mod](mods/MrCrayfish's-Furniture-Mod)
 
-- [MTLib](mods/MTLib.md)
+- [MTLib](mods/MTLib)
 
-- [Mystical Agriculture](mods/Mystical-Agriculture.md)
+- [Mystical Agriculture](mods/Mystical-Agriculture)
 
-- [MysticalLib](mods/MysticalLib.md)
+- [MysticalLib](mods/MysticalLib)
 
-- [NetherPortalFix](mods/NetherPortalFix.md)
+- [NetherPortalFix](mods/NetherPortalFix)
 
-- [Not Enough Wands](mods/Not-Enough-Wands.md)
+- [Not Enough Wands](mods/Not-Enough-Wands)
 
-- [OpenBlocks Elevator](mods/OpenBlocks-Elevator.md)
+- [OpenBlocks Elevator](mods/OpenBlocks-Elevator)
 
-- [OpenModsLib](mods/OpenModsLib.md)
+- [OpenModsLib](mods/OpenModsLib)
 
-- [p455w0rd's Library](mods/p455w0rd's-Library.md)
+- [p455w0rd's Library](mods/p455w0rd's-Library)
 
-- [Pack Crash Info](mods/Pack-Crash-Info.md)
+- [Pack Crash Info](mods/Pack-Crash-Info)
 
-- [ProjectE](mods/ProjectE.md)
+- [ProjectE](mods/ProjectE)
 
-- [Random Things](mods/Random-Things.md)
+- [Random Things](mods/Random-Things)
 
-- [ReAuth](mods/ReAuth.md)
+- [ReAuth](mods/ReAuth)
 
-- [Reborn Core](mods/Reborn-Core.md)
+- [Reborn Core](mods/Reborn-Core)
 
-- [Reborn Storage](mods/Reborn-Storage.md)
+- [Reborn Storage](mods/Reborn-Storage)
 
-- [Redstone Flux](mods/Redstone-Flux.md)
+- [Redstone Flux](mods/Redstone-Flux)
 
-- [Refined Storage](mods/Refined-Storage.md)
+- [Refined Storage](mods/Refined-Storage)
 
-- [Refined Storage Addons](mods/Refined-Storage-Addons.md)
+- [Refined Storage Addons](mods/Refined-Storage-Addons)
 
-- [RFTools](mods/RFTools.md)
+- [RFTools](mods/RFTools)
 
-- [Roost](mods/Roost.md)
+- [Roost](mods/Roost)
 
-- [Schematica](mods/Schematica.md)
+- [Schematica](mods/Schematica)
 
-- [Shadowfacts' Forgelin](mods/Shadowfacts'-Forgelin.md)
+- [Shadowfacts' Forgelin](mods/Shadowfacts'-Forgelin)
 
-- [Sonar Core](mods/Sonar-Core.md)
+- [Sonar Core](mods/Sonar-Core)
 
-- [Storage Drawers](mods/Storage-Drawers.md)
+- [Storage Drawers](mods/Storage-Drawers)
 
-- [Tesla Core Lib](mods/Tesla-Core-Lib.md)
+- [Tesla Core Lib](mods/Tesla-Core-Lib)
 
-- [The Lost Cities](mods/The-Lost-Cities.md)
+- [The Lost Cities](mods/The-Lost-Cities)
 
-- [Wireless Crafting Terminal](mods/Wireless-Crafting-Terminal.md)
+- [Wireless Crafting Terminal](mods/Wireless-Crafting-Terminal)
 
-- [Wireless Redstone CBE](mods/Wireless-Redstone-CBE.md)
+- [Wireless Redstone CBE](mods/Wireless-Redstone-CBE)
 
-- [ZeroCore2](mods/ZeroCore2.md)
+- [ZeroCore2](mods/ZeroCore2)
 
 ## Links
 

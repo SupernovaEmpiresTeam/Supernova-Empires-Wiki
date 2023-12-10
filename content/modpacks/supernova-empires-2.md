@@ -26,159 +26,159 @@ This modpack have an extra quests (kill entities) for more fun, hope you enjoy y
 
 ## Modlist
 
-- [Avaritia 1.1x](mods/Avaritia-1-1-x.md.md)
+- [Avaritia 1.1x](mods/Avaritia-1-1-x)
 
-- [Baubles](mods/Baubles.md)
+- [Baubles](mods/Baubles)
 
-- [BetterFps](mods/BetterFPS.md)
+- [BetterFps](mods/BetterFPS)
 
-- [Bookshelf](mods/Bookshelf.md)
+- [Bookshelf](mods/Bookshelf)
 
-- [Brandon's Core](mods/Brandon's-core.md)
+- [Brandon's Core](mods/Brandon's-core)
 
-- [Chickens](mods/Chickens.md)
+- [Chickens](mods/Chickens)
 
-- [Chisel](mods/Chisel.md)
+- [Chisel](mods/Chisel)
 
-- [Chisel & Bits](mods/Chisel-and-bits.md)
+- [Chisel & Bits](mods/Chisel-and-bits)
 
-- [Clumps](mods/Clumps.md)
+- [Clumps](mods/Clumps)
 
-- [CodeChicken Lib 1.8.+](mods/CodeChiclen-Lib-1.8.+.md)
+- [CodeChicken Lib 1.8.+](mods/CodeChiclen-Lib-1.8.+)
 
-- [CompatSkills](mods/CompatSkills.md)
+- [CompatSkills](mods/CompatSkills)
 
-- [ConnectedTexturesMod](mods/ConnectedTexturesMod.md)
+- [ConnectedTexturesMod](mods/ConnectedTexturesMod)
 
-- [Controlling](mods/Controlling.md)
+- [Controlling](mods/Controlling)
 
-- [CraftStudio API](mods/CraftStudio-API.md)
+- [CraftStudio API](mods/CraftStudio-API)
 
-- [CraftTweaker](mods/CraftTweaker.md)
+- [CraftTweaker](mods/CraftTweaker)
 
-- [CreativeCore](mods/CreativeCore.md)
+- [CreativeCore](mods/CreativeCore)
 
-- [Cyclic](mods/Cyclic.md)
+- [Cyclic](mods/Cyclic)
 
-- [Dark Utilities](mods/Dark-Utilities.md)
+- [Dark Utilities](mods/Dark-Utilities)
 
-- [Default Options](mods/Default-Options.md)
+- [Default Options](mods/Default-Options)
 
-- [Draconic Evolution](mods/Draconic-Evolution.md)
+- [Draconic Evolution](mods/Draconic-Evolution)
 
-- [Dynamic Trees](mods/Dynamic-Trees.md)
+- [Dynamic Trees](mods/Dynamic-Trees)
 
-- [Enhanced Armaments](mods/Enhanced-Armaments.md)
+- [Enhanced Armaments](mods/Enhanced-Armaments)
 
-- [Extra Utilities](mods/Extra-Utilities.md)
+- [Extra Utilities](mods/Extra-Utilities)
 
-- [ExtraPlanets](mods/ExtraPlanets.md)
+- [ExtraPlanets](mods/ExtraPlanets)
 
-- [FTB ProjectEX](mods/FTB-ProjectEX.md)
+- [FTB ProjectEX](mods/FTB-ProjectEX)
 
-- [Hats](mods/Hats.md)
+- [Hats](mods/Hats)
 
-- [Hooked](mods/Hooks.md)
+- [Hooked](mods/Hooks)
 
-- [iChunUtil](mods/iChunUtil.md)
+- [iChunUtil](mods/iChunUtil)
 
-- [Immersive Engineering](mods/Immersive-Engineering.md)
+- [Immersive Engineering](mods/Immersive-Engineering)
 
-- [Industrial Foregoing](mods/Industrial-Foregoing.md)
+- [Industrial Foregoing](mods/Industrial-Foregoing)
 
-- [Inventory Tweaks](mods/Inventory-Tweals.md)
+- [Inventory Tweaks](mods/Inventory-Tweals)
 
-- [Iron Backpacks](mods/Iron-Backpacks.md)
+- [Iron Backpacks](mods/Iron-Backpacks)
 
-- [Iron Chests](mods/Iron-Chests.md)
+- [Iron Chests](mods/Iron-Chests)
 
-- [Item Filters](mods/Item-Filters.md)
+- [Item Filters](mods/Item-Filters)
 
-- [LibrarianLib](mods/LibrarianLib.md)
+- [LibrarianLib](mods/LibrarianLib)
 
-- [Login Shield](mods/Login-Shield.md)
+- [Login Shield](mods/Login-Shield)
 
-- [LootBags](mods/LootBags.md)
+- [LootBags](mods/LootBags)
 
-- [LunatriusCore](mods/LunatriusCore.md)
+- [LunatriusCore](mods/LunatriusCore)
 
-- [MalisisCore](mods/MalisisCore.md)
+- [MalisisCore](mods/MalisisCore)
 
-- [MalisisDoors](mods/MalisisDoors.md)
+- [MalisisDoors](mods/MalisisDoors)
 
-- [MCMultiPart](mods/MCMultiPart.md)
+- [MCMultiPart](mods/MCMultiPart)
 
-- [Mekanica](mods/Mekanica.md)
+- [Mekanica](mods/Mekanica)
 
-- [Mekanica: Generators](mods/Mekanica-Generators.md)
+- [Mekanica: Generators](mods/Mekanica-Generators)
 
-- [Mekanica: Tools](mods/Mekanica-Tools.md)
+- [Mekanica: Tools](mods/Mekanica-Tools)
 
-- [Mo' Bends](mods/Mo'-Bends.md)
+- [Mo' Bends](mods/Mo'-Bends)
 
-- [ModTweaker](mods/ModTweaker.md)
+- [ModTweaker](mods/ModTweaker)
 
-- [More Chickens](mods/More-Chickens.md)
+- [More Chickens](mods/More-Chickens)
 
-- [Morpheus](mods/Morpheus.md)
+- [Morpheus](mods/Morpheus)
 
-- [Mouse Tweaks](mods/Mouse-Tweaks.md)
+- [Mouse Tweaks](mods/Mouse-Tweaks)
 
-- [MrCrayfish's Furniture Mod](mods/MrCrayfish's-Furniture-Mod.md)
+- [MrCrayfish's Furniture Mod](mods/MrCrayfish's-Furniture-Mod)
 
-- [MrCrayfish's Gun Mod](mods/MrCrayfish's-Gun-Mod.md)
+- [MrCrayfish's Gun Mod](mods/MrCrayfish's-Gun-Mod)
 
-- [MTLib](mods/MTLib.md)
+- [MTLib](mods/MTLib)
 
-- [Obfuscate](mods/Obfuscate.md)
+- [Obfuscate](mods/Obfuscate)
 
-- [OnlinePictureFrame](mods/OnlinePictureFrame.md)
+- [OnlinePictureFrame](mods/OnlinePictureFrame)
 
-- [OpenBlocks Elevator](mods/OpenBlocks-Elevator.md)
+- [OpenBlocks Elevator](mods/OpenBlocks-Elevator)
 
-- [Placebo](mods/Placebo.md)
+- [Placebo](mods/Placebo)
 
-- [ProjectE](mods/ProjectE.md)
+- [ProjectE](mods/ProjectE)
 
-- [Random Things](mods/Random-Things.md)
+- [Random Things](mods/Random-Things)
 
-- [RandomPatches](mods/RandomPatches.md)
+- [RandomPatches](mods/RandomPatches)
 
-- [ReAuth](mods/ReAuth.md)
+- [ReAuth](mods/ReAuth)
 
-- [Reborn Core](mods/Reborn-Core.md)
+- [Reborn Core](mods/Reborn-Core)
 
-- [Reborn Storage](mods/Reborn-Storage.md)
+- [Reborn Storage](mods/Reborn-Storage)
 
-- [Redstone Flux](mods/Redstone-Flux.md)
+- [Redstone Flux](mods/Redstone-Flux)
 
-- [Refined Storage](mods/Refined-Storage.md)
+- [Refined Storage](mods/Refined-Storage)
 
-- [Refined Storage Addonds](mods/Refined-Storage-Addonds.md)
+- [Refined Storage Addonds](mods/Refined-Storage-Addonds)
 
-- [Reskillable](mods/Reskillable.md)
+- [Reskillable](mods/Reskillable)
 
-- [Resource Loader](mods/Resource-Loader.md)
+- [Resource Loader](mods/Resource-Loader)
 
-- [Roguelike Dungeons](mods/Rouguelike-Dungeons.md)
+- [Roguelike Dungeons](mods/Rouguelike-Dungeons)
 
-- [Roost](mods/Roost.md)
+- [Roost](mods/Roost)
 
-- [Schematica](mods/Schematica.md)
+- [Schematica](mods/Schematica)
 
-- [Shadowfacts' Forgelin](mods/Shadowfact's-Forgelin.md)
+- [Shadowfacts' Forgelin](mods/Shadowfact's-Forgelin)
 
-- [Sonar Core](mods/Sonar-Core.md)
+- [Sonar Core](mods/Sonar-Core)
 
-- [TekTopia Information](mods/Tektopia-Information.md)
+- [TekTopia Information](mods/Tektopia-Information)
 
-- [Tesla Core Lib](mods/Tesla-Core-Lib.md)
+- [Tesla Core Lib](mods/Tesla-Core-Lib)
 
-- [Tinker's JEI](mods/Tinker's-JEI.md)
+- [Tinker's JEI](mods/Tinker's-JEI)
 
-- [Tinkers' Tool Leveling](mods/Tinkers'-Tool-Leveling.md)
+- [Tinkers' Tool Leveling](mods/Tinkers'-Tool-Leveling)
 
-- [Wawla](mods/Wawla.md)
+- [Wawla](mods/Wawla)
 
-- [Yoyos](mods/Yoyos.md)
+- [Yoyos](mods/Yoyos)
 
